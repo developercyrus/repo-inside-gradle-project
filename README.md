@@ -14,7 +14,7 @@
             compile "foo.bar:commons-speaker:1.0"
         }
        `
-2. Open a command prompt, go to the project directory, and further go to the child project, and typing the following command will build the jar, doc, and sources into a maven form, and places into a `./repo`
+2. Open a command prompt, go to the project directory, and further go to the child project, and typing the following command will build the jar, doc, and sources into a maven form, and places into a /repo
 
        `
         
